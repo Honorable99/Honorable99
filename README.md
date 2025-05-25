@@ -4,9 +4,12 @@ I’m Badmus Ibraheem — Data Analyst  | Problem Solver
 
 I’m a results-driven professional specializing in Data analytics and project management, with a passion for turning Data into actionable insights and driving efficient, outcome-focused projects.
 
+
 I combine strong analytical skills with proven project leadership to help organizations solve complex challenges and improve decision-making.
 
+
 I also bring valuable Real-world business experience from the real estate sector, where I successfully managed high-value projects and developed operational strategies.
+
 
 Core Strengths
 
@@ -15,16 +18,19 @@ Core Strengths
 	•	Business Experience: Practical exposure to Real estate project coordination and client management, strengthening my business acumen.
 
 
+
 Technical Toolkit
 
 	•	Programming & Query Languages:, SQL
 	•	Data Tools: Power BI, Microsoft Excel
 	•	Design & Presentation: Canva, Adobe Photoshop
 
+
 Currently Focused On
 
 	•	Developing Real-world data analytics projects that address business challenges
 	•	Seeking opportunities to contribute as a data analyst or project manager in dynamic teams
+
 
 
 Let’s Connect
