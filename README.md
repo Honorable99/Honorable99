@@ -1,15 +1,34 @@
-## Hi there 👋
+Hi, 
+I’m Badmus Ibraheem — Data Analyst  | Problem Solver
 
-Welcome to my GitHub
+I’m a results-driven professional specializing in Data analytics and project management, with a passion for turning Data into actionable insights and driving efficient, outcome-focused projects.
 
-I'm a Data Analyst with a background in real estate, marketing, project management, and design. I use tools like **Excel, Power BI, and SQL** to turn data into decisions that drive real business results.
----
+I combine strong analytical skills with proven project leadership to help organizations solve complex challenges and improve decision-making.
 
-### About Me:
-- 🔭 I’m currently working on building interactive dashboards and real estate analytics.
-- 👯 I’m looking to collaborate on data projects, especially those related to business or market insights.
-- 💬 Ask me about real estate trends, Excel dashboards, marketing analytics, or data storytelling.
-- 📫 How to reach me: [badmusibraheem22@gmail.com] | [https://www.linkedin.com/in/badmus-ibraheem-b7576635b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+I also bring valuable Real-world business experience from the real estate sector, where I successfully managed high-value projects and developed operational strategies.
 
----
-Thanks for stopping by
+⸻
+
+Core Strengths
+	•	Data Analytics & Visualization: Skilled in SQL, Power BI, and Excel to extract insights, build dashboards, and automate reporting.
+	•	Strategic Thinking & Problem Solving: Ability to identify inefficiencies and implement data-driven solutions that drive business value.
+	•	Business Experience: Practical exposure to Real estate project coordination and client management, strengthening my business acumen.
+
+⸻
+
+Technical Toolkit
+	•	Programming & Query Languages:, SQL
+	•	Data Tools: Power BI, Microsoft Excel
+	•	Design & Presentation: Canva, Adobe Photoshop
+
+⸻
+
+Currently Focused On
+	•	Developing Real-world data analytics projects that address business challenges
+	•	Seeking opportunities to contribute as a data analyst or project manager in dynamic teams
+
+⸻
+
+Let’s Connect
+	•	LinkedIn: [https://www.linkedin.com/in/badmus-ibraheem-b7576635b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+	•	Email: [badmusibraheem22@gmail.com]
