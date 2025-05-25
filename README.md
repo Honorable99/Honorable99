@@ -1,4 +1,5 @@
 Hi, 
+
 I’m Badmus Ibraheem — Data Analyst  | Problem Solver
 
 I’m a results-driven professional specializing in Data analytics and project management, with a passion for turning Data into actionable insights and driving efficient, outcome-focused projects.
